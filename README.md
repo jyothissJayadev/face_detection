@@ -1,7 +1,7 @@
 # Face Detection and Blur Project
 
 <p align="center">
-  <img src="[images/project_screenshot.png](https://cdn-images-1.medium.com/v2/1*9UGEaDhhWVmqEtmVXA394A.jpeg)" alt="Project Screenshot" width="500">
+  <img src="https://cdn-images-1.medium.com/v2/1*9UGEaDhhWVmqEtmVXA394A.jpeg" width="500">
 </p>
 
 This project captures video from a webcam, detects faces in real-time using MediaPipe, applies a blur effect to the detected faces, and displays the processed video stream.
